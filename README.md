@@ -25,3 +25,8 @@ A command-line library management system written in C.
 
 ```bash
 gcc -Wall -Wextra -o library main.c
+```
+## 🏃 How to Run
+```bash
+./library
+```
