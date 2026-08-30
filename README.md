@@ -12,7 +12,7 @@ A command-line library management system written in C.
 - ✅ View all books
 - ✅ Save/Load data
 - ✅ Dynamic memory allocation
-
+---------------------------------------------------
 ## 🛠️ Planned Features
 
 - [ ] Book categories
