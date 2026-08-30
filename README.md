@@ -30,3 +30,15 @@ gcc -Wall -Wextra -o library main.c
 ```bash
 ./library
 ```
+## 📝 Usage
+```text
+===== LIBRARY MANAGEMENT =====
+1. Add Book
+2. View Books
+3. Search Book
+4. Add Member
+5. Borrow Book
+6. Return Book
+7. Exit
+==============================
+```
