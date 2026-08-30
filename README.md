@@ -42,3 +42,9 @@ gcc -Wall -Wextra -o library main.c
 7. Exit
 ==============================
 ```
+## 📚 Learning Goals
+  - Structs and data structures
+  - File I/O
+  - Dynamic memory
+  - Search algorithms
+  - Real-world application design
