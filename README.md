@@ -15,11 +15,11 @@ A command-line library management system written in C.
 --------------------------------------------------
 ## 🛠️ Planned Features
 
-- [ ] Book categories
-- [ ] Due date tracking
-- [ ] Fine calculation
-- [ ] Member cards
-- [ ] ncurses GUI
+- [✅] Book categories
+- [✅] Due date tracking
+- [✅] Fine calculation
+- [✅] Member cards
+- [✅] ncurses GUI
 
 ## 🚀 How to Compile
 
