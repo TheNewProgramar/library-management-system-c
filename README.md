@@ -3,15 +3,15 @@
 A command-line library management system written in C.
 
 ## ✨ Features
-
-- ✅ Add books
-- ✅ Add members
-- ✅ Borrow books
-- ✅ Return books
-- ✅ Search books
-- ✅ View all books
-- ✅ Save/Load data
+- ✅ Add/View Books
+- ✅ Add/View Members
+- ✅ Borrow/Return Books
+- ✅ Search Books
+- ✅ Save/Load Data
+- ✅ ncurses GUI with colors
+- ✅ Arrow key navigation
 - ✅ Dynamic memory allocation
+- ✅ Status bar
 --------------------------------------------------
 ## 🛠️ Planned Features
 
